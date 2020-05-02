@@ -1,0 +1,15 @@
+.dockerignore
+.env
+.git
+.gitignore
+.node-version
+.webpack
+Dockerfile
+Makefile
+docker-compose.yml
+node_modules
+# package-lock.json
+# package.json
+# src
+# tsconfig.json
+# webpack.config.js
